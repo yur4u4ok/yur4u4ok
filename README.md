@@ -13,7 +13,7 @@ Hello! I'm a **Senior Backend Developer** with expertise in Python and Node.js t
 - **DevOps:** Docker, Render.com, DigitalOcean, AWS (EC2, S3, Lambda, Elastic Beanstalk), GCP
 - **Design Patterns:** TDD, SOLID, DRY, KISS, YAGNI
 
-## Additional Skills
+## 💻 Additional Skills
 - **ORM/ODM:** Django ORM, Prisma, TypeORM, Mongoose
 - **API:** GraphQL, RESTful APIs
 
