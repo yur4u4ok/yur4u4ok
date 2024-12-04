@@ -1,6 +1,6 @@
-# 🌟 Senior Backend Developer
+# 🌟 Backend Developer
 
-Hello! I'm a **Senior Backend Developer** with expertise in Python and Node.js technologies. I specialize in building high-performance, scalable web applications.
+Hello! I'm a **Backend Developer** with expertise in Python and Node.js technologies. I specialize in building high-performance, scalable web applications.
 
 ---
 
